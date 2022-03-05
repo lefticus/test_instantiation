@@ -34,7 +34,7 @@ include(${_project_options_SOURCE_DIR}/Index.cmake)
 
 # Set the project name and language
 project(
-  myproject
+  test_instantiation
   VERSION 0.0.1
   DESCRIPTION ""
   HOMEPAGE_URL "%%url%%"
